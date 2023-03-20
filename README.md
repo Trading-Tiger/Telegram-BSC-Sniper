@@ -1,4 +1,4 @@
-# Telegram BSC Sniper
+# Telegram BSC Sniper beta
 
 This project is a Python script that listens to Telegram channels for messages containing Binance Smart Chain (BSC) token addresses, and automatically snipes them by buying them with Binance Coin (BNB) and managing the position with take profit, stop loss, and trailing stop loss strategies. It also performs some checks on the token, such as checking if it's a honeypot or if it has excessive buy/sell taxes, and avoids blacklisted tokens. 
 
