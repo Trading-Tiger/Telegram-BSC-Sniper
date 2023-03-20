@@ -25,7 +25,7 @@
 
     "timeout": 120, 
 
-    "TG_Channels": [1517585345, 1874800966],
+    "TG_Channels": [1517585345],
     "BuyOnlyCMC" : true,
 
     "SaveGasCost": true
