@@ -1,0 +1,33 @@
+{
+    "TG_app_name": "OnlyAName",
+    "TG_app_id": "11429....",
+    "TG_api_hash": "...",
+
+
+    "metamask_address": "",
+    "metamask_private_key": "" ,
+
+    "RPC": "https://bsc-dataseed.binance.org/",
+    "GWEI_GAS": 6,
+    
+    "MaxTXFeeBNB": 0.007,
+    "Slippage": 15,
+    
+    "TakeProfit": 100,
+    "StopLoss": 0,
+    "TrailingStopLoss": 10,
+
+    "MinLiquidityUSD": 1000,
+    "bnb_amount": 0.035,
+    
+    "MaxSellTax": 4,
+    "MaxBuyTax": 4, 
+
+    "timeout": 120, 
+
+    "TG_Channels": [1517585345, 1874800966],
+    "BuyOnlyCMC" : true,
+
+    "SaveGasCost": true
+
+}
