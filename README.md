@@ -4,6 +4,7 @@ This project is a Python script that listens to Telegram channels for messages c
 
 ## Prerequisites
 - Telegram account and API hash.
+- In this Telegram channel https://t.me/CMC_CG_listing_alerts
 - BSC Address with Private Key.
 
 To use this script, you will need to install the following dependencies:
