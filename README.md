@@ -15,7 +15,7 @@ To use this script, you will need to install the following dependencies:
 - eth-abi
 - numpy
 
-You can install these dependencies by running `pip install telethon web3 eth-abi numpy`.
+You can install these dependencies by running `pip install telethon web3 numpy`.
 
 You will also need to provide a `Settings.json` file with your Telegram app ID and hash, your Metamask address and private key, and some other configuration options. Additionally, you may need to update the `blacklist.json` file with any tokens that you want to exclude from the sniper.
 
