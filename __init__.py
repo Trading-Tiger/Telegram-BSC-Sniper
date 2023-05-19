@@ -3,7 +3,7 @@ import json
 from telethon.tl.types import InputChannel
 from web3 import Web3, constants
 from threading import Thread
-import style
+from style import style
 from time import sleep
 from datetime import datetime
 import time
